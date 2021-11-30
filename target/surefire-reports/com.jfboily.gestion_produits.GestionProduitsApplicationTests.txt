@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jfboily.gestion_produits.GestionProduitsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.616 s - in com.jfboily.gestion_produits.GestionProduitsApplicationTests
